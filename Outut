@@ -1,0 +1,26 @@
+===== MUSIC PLAYLIST MENU =====
+1. Add Song
+2. Display Playlist
+3. Play Current Song
+4. Play Next Song
+5. Delete Song
+6. Exit
+Enter your choice: 1
+Enter song name: Perfect
+Song added successfully!
+
+Enter your choice: 2
+
+Music Playlist:
+Perfect
+Shape of You
+Believer
+
+Enter your choice: 3
+Now Playing: Perfect
+
+Enter your choice: 4
+Now Playing: Shape of You
+
+Enter your choice: 6
+Exiting Music Playlist...
