@@ -1,0 +1,70 @@
+OUTPUT
+Yes/No Quiz Application Using Binary Tree
+=========================================
+
+1. Main Menu
+------------
+
+===== QUIZ APPLICATION =====
+1. Start Quiz
+2. Display Preorder Traversal
+3. Display Tree Statistics
+4. Exit
+Enter your choice: 1
+
+
+2. Start Quiz — Sample Output
+-----------------------------
+
+===== YES/NO QUIZ =====
+Do you like outdoor activities? (y/n): y
+Do you like team sports? (y/n): y
+Result: You may enjoy football.
+
+
+3. Preorder Traversal Output
+----------------------------
+
+===== PREORDER TRAVERSAL =====
+Do you like outdoor activities?
+Do you like team sports?
+You may enjoy football.
+You may enjoy solo outdoor activities.
+Do you prefer indoor activities?
+You may enjoy indoor games.
+You may enjoy reading.
+
+
+4. Binary Tree Statistics Output
+--------------------------------
+
+===== BINARY TREE STATISTICS =====
+Leaf Nodes: 4
+Internal Nodes: 3
+Tree Height: 3
+
+
+5. Exit Output
+--------------
+
+===== QUIZ APPLICATION =====
+1. Start Quiz
+2. Display Preorder Traversal
+3. Display Tree Statistics
+4. Exit
+Enter your choice: 4
+Exiting application...
+
+
+Result
+------
+
+The Yes/No Quiz Application was successfully implemented in C++ using a binary tree.
+Recursive functions are used to conduct the quiz, perform preorder traversal, count
+leaf and internal nodes, and calculate the tree height.
+
+Final Statistics:
+- Total Nodes: 7
+- Leaf Nodes: 4
+- Internal Nodes: 3
+- Tree Height: 3 nodes (2 edges)
