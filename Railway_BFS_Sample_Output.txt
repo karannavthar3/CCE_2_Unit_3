@@ -1,0 +1,13 @@
+--- Railway Station Exploration Using BFS ---
+
+Enter the number of train connections: 5
+Enter each connection as: Station1 Station2
+Example: Mumbai Pune
+Mumbai Pune
+Mumbai Nashik
+Pune Nagpur
+Nashik Surat
+Nagpur Delhi
+Enter the starting station: Mumbai
+
+BFS exploration order: Mumbai -> Pune -> Nashik -> Nagpur -> Surat -> Delhi
